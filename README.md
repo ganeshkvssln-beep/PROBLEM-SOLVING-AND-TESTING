@@ -21,8 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0890-find-and-replace-pattern](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0890-find-and-replace-pattern) |
 | [1408-string-matching-in-an-array](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1408-string-matching-in-an-array) |
+| [1920-build-array-from-permutation](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1920-build-array-from-permutation) |
 ## String Matching
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1408-string-matching-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
