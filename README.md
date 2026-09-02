@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0217-contains-duplicate) |
 | [0890-find-and-replace-pattern](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0890-find-and-replace-pattern) |
 | [2418-sort-the-people](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/2418-sort-the-people) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0217-contains-duplicate) |
 | [0890-find-and-replace-pattern](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0905-sort-array-by-parity) |
 | [1408-string-matching-in-an-array](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1408-string-matching-in-an-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0217-contains-duplicate) |
 | [0905-sort-array-by-parity](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0905-sort-array-by-parity) |
 | [2418-sort-the-people](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/2418-sort-the-people) |
 ## Greedy
