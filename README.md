@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0905-sort-array-by-parity) |
 | [1408-string-matching-in-an-array](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1408-string-matching-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1920-build-array-from-permutation) |
