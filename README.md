@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0179-largest-number) |
 | [0890-find-and-replace-pattern](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/0890-find-and-replace-pattern) |
 | [1154-day-of-the-year](https://github.com/ganeshkvssln-beep/PROBLEM-SOLVING-AND-TESTING/tree/master/1154-day-of-the-year) |
